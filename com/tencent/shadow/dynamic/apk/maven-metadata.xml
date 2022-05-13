@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tencent.shadow.dynamic</groupId>
+  <artifactId>apk</artifactId>
+  <versioning>
+    <latest>SX_1.0.0-7728bbe7-SNAPSHOT</latest>
+    <versions>
+      <version>SX_1.0.0-7728bbe7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220512075533</lastUpdated>
+  </versioning>
+</metadata>
